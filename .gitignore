@@ -5,6 +5,7 @@ code/
 api_key.txt
 bookbuild.*
 stock_db.sql
+stock_db.pkl
 목차.xlsx
 git.*
 git_upload.*
